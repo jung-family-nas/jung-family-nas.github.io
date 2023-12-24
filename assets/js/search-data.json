@@ -1,0 +1,254 @@
+{"0": {
+    "doc": "어플리케이션",
+    "title": "어플리케이션",
+    "content": "NAS의 어플리케이션을 다룹니다. ",
+    "url": "/docs/application/application.html",
+    
+    "relUrl": "/docs/application/application.html"
+  },"1": {
+    "doc": "클라이언트",
+    "title": "클라이언트",
+    "content": "컴퓨터/스마트폰 등 사용자 기기에 설치해야하는 프로그램들을 다룹니다. 필수는 아닙니다만, 나스 사용을 편하게 만들어줍니다. ",
+    "url": "/docs/client/client.html",
+    
+    "relUrl": "/docs/client/client.html"
+  },"2": {
+    "doc": "파일 관리",
+    "title": "파일 관리",
+    "content": "NAS의 파일 관리를 다룹니다. ",
+    "url": "/docs/file-management/file-management.html",
+    
+    "relUrl": "/docs/file-management/file-management.html"
+  },"3": {
+    "doc": "Nextcloud App",
+    "title": "Nextcloud Application",
+    "content": "Nextcloud 앱을 통해서, 모바일에서 개인폴더의 편한 조작이 가능합니다. ",
+    "url": "/docs/client/nextcloud.html#nextcloud-application",
+    
+    "relUrl": "/docs/client/nextcloud.html#nextcloud-application"
+  },"4": {
+    "doc": "Nextcloud App",
+    "title": "Nextcloud App",
+    "content": " ",
+    "url": "/docs/client/nextcloud.html",
+    
+    "relUrl": "/docs/client/nextcloud.html"
+  },"5": {
+    "doc": "nPlayer App",
+    "title": "nPlayer Application",
+    "content": "nPlayer 앱을 통해서, 편한 접근과 다양한 비디오 재생이 가능합니다.mp4 등의 제한적인 확장자만 재생시, 꼭 필요하지는 않을 수 있습니다. ",
+    "url": "/docs/client/nplayer.html#nplayer-application",
+    
+    "relUrl": "/docs/client/nplayer.html#nplayer-application"
+  },"6": {
+    "doc": "nPlayer App",
+    "title": "nPlayer App",
+    "content": " ",
+    "url": "/docs/client/nplayer.html",
+    
+    "relUrl": "/docs/client/nplayer.html"
+  },"7": {
+    "doc": "개인폴더",
+    "title": "개인폴더",
+    "content": "개인폴더는 Nextcloud 프로그램을 통해서 관리됩니다. 다양한 프로토콜을 지원합니다. ",
+    "url": "/docs/file-management/personal.html",
+    
+    "relUrl": "/docs/file-management/personal.html"
+  },"8": {
+    "doc": "개인폴더",
+    "title": "계정 정보",
+    "content": ". | USERNAME은 영문 이름만 사용합니다. | PASSWORD는 qkRnjwntpdy입니다. (바꿔주세요) | . ",
+    "url": "/docs/file-management/personal.html#%EA%B3%84%EC%A0%95-%EC%A0%95%EB%B3%B4",
+    
+    "relUrl": "/docs/file-management/personal.html#계정-정보"
+  },"9": {
+    "doc": "개인폴더",
+    "title": "사용법 1. 웹 인터페이스",
+    "content": "jung-family-nas.uk:9001 . 첫번째 사용 방법입니다. Web UI를 통해서 접속합니다. ",
+    "url": "/docs/file-management/personal.html#%EC%82%AC%EC%9A%A9%EB%B2%95-1-%EC%9B%B9-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4",
+    
+    "relUrl": "/docs/file-management/personal.html#사용법-1-웹-인터페이스"
+  },"10": {
+    "doc": "개인폴더",
+    "title": "사용법 2. WebDAV",
+    "content": "https protocol을 사용해 윈도우/맥 등의 탐색기에서 직접 접근이 가능합니다. 2.1. Windows - WebDAV . | 파일 탐색기 열기 | “이 PC”를 마우스 오른쪽 클릭 | “네트워크 위치 추가” 선택 | “다음”을 계속 클릭하여 인터넷 주소를 묻는 화면까지 이동 | https://jung-family-nas.uk:9001/remote.php/dav/files/USERNAME 입력 | “다음” 클릭 | Nextcloud 사용자 이름과 암호 입력 | . 2.1. macOS - WebDAV . | 파인더 열기 | 메뉴 바에서 “이동” 선택 | “서버에 연결” 선택 | https://jung-family-nas.uk:9001/remote.php/dav/files/USERNAME 입력 | “연결” 클릭 | Nextcloud 사용자 이름과 암호 입력 | . 참고: https://jung-family-nas.uk:9001/remote.php/dav/files/USERNAME에서 USERNAME은 로그인 시 사용되는 영문 이름을 입력해주세요. ",
+    "url": "/docs/file-management/personal.html#%EC%82%AC%EC%9A%A9%EB%B2%95-2-webdav",
+    
+    "relUrl": "/docs/file-management/personal.html#사용법-2-webdav"
+  },"11": {
+    "doc": "Plex",
+    "title": "Plex",
+    "content": "TV로 사진, 음악, 동영상 등을 재생할 수 있게 해줍니다. ",
+    "url": "/docs/file-management/plex.html",
+    
+    "relUrl": "/docs/file-management/plex.html"
+  },"12": {
+    "doc": "Plex",
+    "title": "전송방법",
+    "content": "shareFolder2로 공유폴더를 사용해서 옮깁니다. ",
+    "url": "/docs/file-management/plex.html#%EC%A0%84%EC%86%A1%EB%B0%A9%EB%B2%95",
+    
+    "relUrl": "/docs/file-management/plex.html#전송방법"
+  },"13": {
+    "doc": "Plex",
+    "title": "메타데이터",
+    "content": "영화, 쇼, 음악의 메타 데이터는 TheTVDB.com에서 가져옵니다. 응답하라 1988의 경우 Answer Me 1988로 작명 시 인식하여, 데이터를 가져옵니다. ",
+    "url": "/docs/file-management/plex.html#%EB%A9%94%ED%83%80%EB%8D%B0%EC%9D%B4%ED%84%B0",
+    
+    "relUrl": "/docs/file-management/plex.html#메타데이터"
+  },"14": {
+    "doc": "빠른 시작",
+    "title": "NAS의 사용법",
+    "content": "해당 페이지는 NAS의 대략적인 사용법을 다룹니다. ",
+    "url": "/docs/quick-start.html#nas%EC%9D%98-%EC%82%AC%EC%9A%A9%EB%B2%95",
+    
+    "relUrl": "/docs/quick-start.html#nas의-사용법"
+  },"15": {
+    "doc": "빠른 시작",
+    "title": "For TV",
+    "content": ". | TV의 리모컨으로 홈 버튼을 누릅니다. | Plex 앱을 시작합니다. | 파일을 추가할 때는 shareFolder2를 사용합니다. | . ",
+    "url": "/docs/quick-start.html#for-tv",
+    
+    "relUrl": "/docs/quick-start.html#for-tv"
+  },"16": {
+    "doc": "빠른 시작",
+    "title": "iPhone",
+    "content": ". | 아이폰의 기본 앱인, 파일 앱에 접속합니다. | 우측 상단 ... 아이콘을 누릅니다. | 서버에 연결하기를 선택하여 연결합니다. | 게스트로 접속합니다. | . ",
+    "url": "/docs/quick-start.html#iphone",
+    
+    "relUrl": "/docs/quick-start.html#iphone"
+  },"17": {
+    "doc": "빠른 시작",
+    "title": "Windows",
+    "content": ". | 파일 탐색기 -&gt; 네트워크 | 네트워크 탐색을 켜줍니다. (꺼져있다면) | 네트워크 드라이브를 찾을 수 있습니다. | . ",
+    "url": "/docs/quick-start.html#windows",
+    
+    "relUrl": "/docs/quick-start.html#windows"
+  },"18": {
+    "doc": "빠른 시작",
+    "title": "빠른 시작",
+    "content": " ",
+    "url": "/docs/quick-start.html",
+    
+    "relUrl": "/docs/quick-start.html"
+  },"19": {
+    "doc": "공유폴더",
+    "title": "공유폴더",
+    "content": " ",
+    "url": "/docs/file-management/shared.html",
+    
+    "relUrl": "/docs/file-management/shared.html"
+  },"20": {
+    "doc": "공유폴더",
+    "title": "공유폴더의 이해",
+    "content": "공유폴더는 SMB 프로토콜을 사용합니다. 해당 프로토콜을 지원하는 기기라면 연결가능합니다. ",
+    "url": "/docs/file-management/shared.html#%EA%B3%B5%EC%9C%A0%ED%8F%B4%EB%8D%94%EC%9D%98-%EC%9D%B4%ED%95%B4",
+    
+    "relUrl": "/docs/file-management/shared.html#공유폴더의-이해"
+  },"21": {
+    "doc": "공유폴더",
+    "title": "주의사항",
+    "content": "공유폴더는 네트워크의 모든 사용자가 접근할 수 있습니다. 중요한 정보는 보관하지 않는 것을 추천합니다. 만약 로그인 하라는 문구가 나온다면, 게스트로 눌러줍니다. 혹은, username과 password를 물어볼 경우, username에 guest를 입력해줍니다. ",
+    "url": "/docs/file-management/shared.html#%EC%A3%BC%EC%9D%98%EC%82%AC%ED%95%AD",
+    
+    "relUrl": "/docs/file-management/shared.html#주의사항"
+  },"22": {
+    "doc": "공유폴더",
+    "title": "접속방법",
+    "content": "아래의 기기들은 빠른 시작 페이지에서도 다루는 내용들 입니다. ",
+    "url": "/docs/file-management/shared.html#%EC%A0%91%EC%86%8D%EB%B0%A9%EB%B2%95",
+    
+    "relUrl": "/docs/file-management/shared.html#접속방법"
+  },"23": {
+    "doc": "공유폴더",
+    "title": "iPhone",
+    "content": ". | 아이폰의 기본 앱인, 파일 앱에 접속합니다. | 우측 상단 ... 아이콘을 누릅니다. | 서버에 연결하기를 선택하여 연결합니다. | 게스트로 접속합니다. | . ",
+    "url": "/docs/file-management/shared.html#iphone",
+    
+    "relUrl": "/docs/file-management/shared.html#iphone"
+  },"24": {
+    "doc": "공유폴더",
+    "title": "Windows",
+    "content": ". | 파일 탐색기 -&gt; 네트워크 | 네트워크 탐색을 켜줍니다. (꺼져있다면) | 네트워크 드라이브를 찾을 수 있습니다. | . ",
+    "url": "/docs/file-management/shared.html#windows",
+    
+    "relUrl": "/docs/file-management/shared.html#windows"
+  },"25": {
+    "doc": "Transmission",
+    "title": "Transmission",
+    "content": "Transmission은 비트토렌트 클라이언트입니다. Web UI로 조작이 가능합니다. linuxserver/transmission 이미지를 사용합니다. ",
+    "url": "/docs/application/transmission.html",
+    
+    "relUrl": "/docs/application/transmission.html"
+  },"26": {
+    "doc": "나스의 이해",
+    "title": "나스의 구성",
+    "content": "해당 NAS는 크게 두 가지 기능을 합니다: . | 파일 관리 | 어플리케이션 | . ",
+    "url": "/docs/understand-nas.html#%EB%82%98%EC%8A%A4%EC%9D%98-%EA%B5%AC%EC%84%B1",
+    
+    "relUrl": "/docs/understand-nas.html#나스의-구성"
+  },"27": {
+    "doc": "나스의 이해",
+    "title": "파일 관리",
+    "content": "파일 저장은 두 가지 방법으로 가능합니다. | 공유폴더 | 개인폴더 | . 빠른 시작 페이지는 공유폴더만을 다루고 있습니다. 개인폴더는 더 나은 파일 관리, 다양한 프로토콜을 가지고 있습니다. ",
+    "url": "/docs/understand-nas.html#%ED%8C%8C%EC%9D%BC-%EA%B4%80%EB%A6%AC",
+    
+    "relUrl": "/docs/understand-nas.html#파일-관리"
+  },"28": {
+    "doc": "나스의 이해",
+    "title": "어플리케이션 (구현 예정입니다.)",
+    "content": ". | Transmission (토렌트) | yt-dlp (다운로더) | … | . ",
+    "url": "/docs/understand-nas.html#%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EA%B5%AC%ED%98%84-%EC%98%88%EC%A0%95%EC%9E%85%EB%8B%88%EB%8B%A4",
+    
+    "relUrl": "/docs/understand-nas.html#어플리케이션-구현-예정입니다"
+  },"29": {
+    "doc": "나스의 이해",
+    "title": "클라이언트",
+    "content": "클라이언트, 즉 사용자는 나스 이용을 위해, 다음의 어플리케이션이 추가로 필요할 수 있습니다. | Nextcloud App | VPN App | nPlayer App | . ",
+    "url": "/docs/understand-nas.html#%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8",
+    
+    "relUrl": "/docs/understand-nas.html#클라이언트"
+  },"30": {
+    "doc": "나스의 이해",
+    "title": "나스의 이해",
+    "content": " ",
+    "url": "/docs/understand-nas.html",
+    
+    "relUrl": "/docs/understand-nas.html"
+  },"31": {
+    "doc": "VPN App",
+    "title": "VPN Application",
+    "content": "집 공유기 밖에서 NAS에 접근하기 위해서는 VPN이 필요합니다. ",
+    "url": "/docs/client/vpn.html#vpn-application",
+    
+    "relUrl": "/docs/client/vpn.html#vpn-application"
+  },"32": {
+    "doc": "VPN App",
+    "title": "OpenVPN",
+    "content": "OpenVPN 앱/프로그램을 통해서, 모바일/데스크탑에서 접근이 가능합니다. VPN 암호키는 .ovpn 형식의 파일입니다. ",
+    "url": "/docs/client/vpn.html#openvpn",
+    
+    "relUrl": "/docs/client/vpn.html#openvpn"
+  },"33": {
+    "doc": "VPN App",
+    "title": "WireGuard",
+    "content": ". WireGuard는 더욱 빠른 VPN 프로그램입니다. wireGuard 앱/프로그램을 통해서, 모바일/데스크탑에서 접근이 가능합니다. VPN 암호키는 .conf 형식의 파일입니다. 현재 Nextcloud 사이트에 공유 해놓았습니다. ",
+    "url": "/docs/client/vpn.html#wireguard",
+    
+    "relUrl": "/docs/client/vpn.html#wireguard"
+  },"34": {
+    "doc": "VPN App",
+    "title": "VPN App",
+    "content": " ",
+    "url": "/docs/client/vpn.html",
+    
+    "relUrl": "/docs/client/vpn.html"
+  },"35": {
+    "doc": "yt-dlp",
+    "title": "yt-dlp",
+    "content": "yt-dlp는 다양한 사이트에 사용할 수 있는 다운로더입니다. Web UI로 조작이 가능합니다. marcobaobao/yt-dlp-webui 이미지를 사용합니다. ",
+    "url": "/docs/application/yt-dlp.html",
+    
+    "relUrl": "/docs/application/yt-dlp.html"
+  }
+}
