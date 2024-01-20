@@ -246,9 +246,23 @@
   },"35": {
     "doc": "yt-dlp",
     "title": "yt-dlp",
-    "content": "yt-dlp는 다양한 사이트에 사용할 수 있는 다운로더입니다. Web UI로 조작이 가능합니다. marcobaobao/yt-dlp-webui 이미지를 사용합니다. ",
+    "content": " ",
     "url": "/docs/application/yt-dlp.html",
     
     "relUrl": "/docs/application/yt-dlp.html"
+  },"36": {
+    "doc": "yt-dlp",
+    "title": "개요",
+    "content": "yt-dlp는 다양한 사이트에 사용할 수 있는 다운로더입니다. Web UI로 조작이 가능합니다. shareFolder/yt-dlp 경로로 동영상을 다운받을 수 있습니다. marcobaobao/yt-dlp-webui 이미지를 사용합니다. ",
+    "url": "/docs/application/yt-dlp.html#%EA%B0%9C%EC%9A%94",
+    
+    "relUrl": "/docs/application/yt-dlp.html#개요"
+  },"37": {
+    "doc": "yt-dlp",
+    "title": "지원 사이트",
+    "content": "Supported Sites . ",
+    "url": "/docs/application/yt-dlp.html#%EC%A7%80%EC%9B%90-%EC%82%AC%EC%9D%B4%ED%8A%B8",
+    
+    "relUrl": "/docs/application/yt-dlp.html#지원-사이트"
   }
 }
